@@ -1,6 +1,6 @@
 //
 //  NotificationCenter.swift
-//  S!mple
+//  3things
 //
 //  Created by Matthieu Draveny on 02/01/2025.
 //
