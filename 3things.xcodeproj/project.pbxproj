@@ -29,9 +29,22 @@
 		FFA27F022D2D4A780014A4C5 /* 3thingsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 3thingsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		FF5CE7EF2D916F3B0095C93A /* Exceptions for "3things" folder in "3things" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = FFA27EE12D2D4A760014A4C5 /* 3things */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		FFA27EE42D2D4A760014A4C5 /* 3things */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				FF5CE7EF2D916F3B0095C93A /* Exceptions for "3things" folder in "3things" target */,
+			);
 			path = 3things;
 			sourceTree = "<group>";
 		};
